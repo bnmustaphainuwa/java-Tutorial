@@ -9,6 +9,6 @@ public class Hello {
         System.out.print("Enter your name:");
         String name = input.nextLine();
         //print the name to the user
-        System.out.println("Your name is: " + name);
+        System.out.println("Hello " + name + " Welcome to java" );
     }
 }
